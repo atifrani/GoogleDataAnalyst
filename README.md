@@ -1,5 +1,5 @@
 # GoogleDataAnalyst 
-My Google Data Analyst Certificate Journey
+My Google Data Analytics Professional Certificate Journey
 
 https://www.coursera.org/professional-certificates/google-data-analytics
 
