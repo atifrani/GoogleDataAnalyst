@@ -9,9 +9,6 @@ Course 1 - Foundations: Data, Data, Everywhere
 
 Course 2 - Ask Questions to make data-driven decisions
 
-Course 3
-Course 4
-Course 5
-Course 6
-Course 7
-Course 8
+Course 3 - Process
+
+Lessons - Actually I did learn alot.  Taking more time to understand the problem in the begining and Asking more questions.  Ensuring the data was inclusive and not bias is something i gained alot of insight into.
