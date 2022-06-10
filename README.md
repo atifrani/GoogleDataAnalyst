@@ -11,4 +11,4 @@ Course 2 - Ask Questions to make data-driven decisions
 
 Course 3 - Process
 
-Lessons - Actually I did learn alot.  Taking more time to understand the problem in the begining and Asking more questions.  Ensuring the data was inclusive and not bias is something i gained alot of insight into.
+Lessons - Actually I did learn alot.  Taking more time to understand the problem in the begining and Asking more questions.  Ensuring the data was inclusive and not bias is something i gained new insight into.
