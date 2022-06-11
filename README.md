@@ -7,8 +7,10 @@ Google Data Analytics Professional Certificate
 
 Course 1 - Foundations: Data, Data, Everywhere
 
-Course 2 - Ask Questions to make data-driven decisions
+Course 2 - ASK Questions to make data-driven decisions
 
-Course 3 - Process
+Course 3 - PREPARE Data for Exploration
+
+Course 4 - PROCESS
 
 Lessons - Actually I did learn alot.  Taking more time to understand the problem in the begining and Asking more questions.  Ensuring the data was inclusive and not bias is something i gained new insight into.
