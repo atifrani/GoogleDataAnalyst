@@ -1,5 +1,5 @@
 # Google Data Analytics Professional 
-My Google Data Journey [Certificate](file:///C:/Users/micha/Downloads/Google%20Data%20Analytics%20Professional%20UV53YT73H8QM.pdf)
+My Google Data Journey [Certificate](https://github.com/michaelmaxi/GoogleDataAnalyst/blob/main/Course%208/Google%20Data%20Analytics%20Professional%20UV53YT73H8QM.pdf)
 
 
 **CHECK OUT MY GUIDE HERE**  https://sites.google.com/view/mydataanalytics/home
