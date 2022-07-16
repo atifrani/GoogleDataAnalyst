@@ -1,7 +1,8 @@
 # Google Data Analytics Professional 
-My Google Data Journey
+My Google Data Journey [Certificate](file:///C:/Users/micha/Downloads/Google%20Data%20Analytics%20Professional%20UV53YT73H8QM.pdf)
 
-https://www.coursera.org/professional-certificates/google-data-analytics
+
+**CHECK OUT MY GUIDE HERE**  https://sites.google.com/view/mydataanalytics/home
 
 Google Data Analytics Professional Certificate
 
@@ -23,4 +24,4 @@ Course 8 - Project
 
 Lessons - Actually I did learn alot.  Taking more time to understand the problem in the begining and Asking more questions.  Ensuring the data was inclusive and not bias is something i gained new insight into.
 
-**CHECK OUT MY GUIDE HERE**  https://sites.google.com/view/mydataanalytics/home
+
