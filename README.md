@@ -4,7 +4,7 @@
 
 **Check out my Website HERE -->**  [My Data Analytics Website](https://sites.google.com/view/mydataanalytics/home)
 
-To Acheive the Google Data Analytics Professional you are required to complete 8 Separate Course on Coursea.  Each course ranging from 4 - 6 Weeks
+To Acheive the Google Data Analytics Professional you are required to complete 8 Separate Course on Coursea.  Each course ranging from 4-6 Weeks each
 
 Course 1 - Foundations: Data, Data, Everywhere
 
