@@ -1,8 +1,8 @@
 # Google Data Analytics Professional 
-My Google Data Journey & Certificate --> [Click for Certificate](https://github.com/michaelmaxi/GoogleDataAnalyst/blob/main/Course%208/Google%20Data%20Analytics%20Professional%20UV53YT73H8QM.pdf)
+**My Google Data Journey & Certificate -->** [Click for Certificate](https://github.com/michaelmaxi/GoogleDataAnalyst/blob/main/Course%208/Google%20Data%20Analytics%20Professional%20UV53YT73H8QM.pdf)
 
 
-**CHECK OUT MY GUIDE HERE**  [My Data Analytics Website](https://sites.google.com/view/mydataanalytics/home)
+**CHECK OUT MY GUIDE HERE -->**  [My Data Analytics Website](https://sites.google.com/view/mydataanalytics/home)
 
 Google Data Analytics Professional Certificate
 
