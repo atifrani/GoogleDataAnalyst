@@ -4,7 +4,7 @@
 
 **Check out my Website here -->**  [My Data Analytics Website](https://sites.google.com/view/mydataanalytics/home)
 
-** Check out my Dashboard of Make & Models here -->**  [My Tableau](https://public.tableau.com/app/profile/michael.walker2426/viz/2022VFACTSProject/Dashboard1)
+**Check out my Dashboard of Make & Models here -->**  [My Tableau](https://public.tableau.com/app/profile/michael.walker2426/viz/2022VFACTSProject/Dashboard1)
 
 To Acheive the Google Data Analytics Professional you are required to complete 8 Separate Course on Coursea.  Each course ranging from 4-6 Weeks each
 
